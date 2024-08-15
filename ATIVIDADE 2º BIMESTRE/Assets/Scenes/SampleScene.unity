@@ -10243,7 +10243,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96e224ef2a5391141b28cf8e47b604ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 5
+  Speed: 3
   JumpForce: 10
   isJumping: 0
   doubleJump: 1
