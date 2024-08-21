@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -92,6 +95,7 @@
       <workItem from="1723654124058" duration="1890000" />
       <workItem from="1723739571358" duration="1849000" />
       <workItem from="1724151234485" duration="1766000" />
+      <workItem from="1724245782521" duration="1264000" />
     </task>
     <servers />
   </component>
