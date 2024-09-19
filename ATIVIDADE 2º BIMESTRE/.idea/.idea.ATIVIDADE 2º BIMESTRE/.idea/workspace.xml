@@ -12,6 +12,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sprites/Scripts/CarregarCena.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -99,6 +100,7 @@
       <workItem from="1724259211481" duration="667000" />
       <workItem from="1724341704719" duration="3460000" />
       <workItem from="1724412399888" duration="311000" />
+      <workItem from="1726765527563" duration="2933000" />
     </task>
     <servers />
   </component>
